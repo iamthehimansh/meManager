@@ -1,4 +1,4 @@
-# AI Personal Assistant
+# Me Manager
 
 An advanced AI personal assistant designed to manage professional communications and optimize job search efforts.
 
